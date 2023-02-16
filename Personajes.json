@@ -1,0 +1,42 @@
+[
+    {
+        "id": "d9e5a67f-a0df-4713-b188-2613fb6f7fdd",
+        "Nombre": "Helya",
+        "Raza": "Humanos",
+        "Clase": "Guerrero",
+        "Vida": "1200",
+        "Mana": "850"
+    },
+    {
+        "id": "aecc0d7d-8e04-40cb-b141-14ade86909d7",
+        "Nombre": "Minye",
+        "Raza": "Humanos",
+        "Clase": "Guerrero",
+        "Vida": "1200",
+        "Mana": "850"
+    },
+    {
+        "id": "cdfc55b4-c116-411e-a29b-845b02bdb710",
+        "Nombre": "oRKIT",
+        "Raza": "Orcos",
+        "Clase": "Cham\u00e1n",
+        "Vida": "725",
+        "Mana": "895"
+    },
+    {
+        "id": "f4ebee7a-10f7-466f-af34-3e1b68afde68",
+        "Nombre": "Skarlette",
+        "Raza": "Humanos",
+        "Clase": "Mago",
+        "Vida": "975",
+        "Mana": "1100"
+    },
+    {
+        "id": "6bb19c1d-5387-422c-bcc4-fcdb36b55991",
+        "Nombre": "volus",
+        "Raza": "Humanos",
+        "Clase": "Jinete",
+        "Vida": "1350",
+        "Mana": "925"
+    }
+]
